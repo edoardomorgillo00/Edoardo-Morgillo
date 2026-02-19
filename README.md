@@ -1,2 +1,60 @@
 <h1 align="center">Hi 👋, I'm Edoardo</h1>
 <h3 align="center">Data Analyst | Turning Data into Business Insights</h3>
+
+📊 Data Analyst focused on transforming raw data into actionable insights  
+📈 Passionate about Data Visualization, Automation and Predictive Analysis  
+⚡ Strong focus on business impact and storytelling with data  
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 📈 Data Visualization & BI
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Looker Studio](https://img.shields.io/badge/LookerStudio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)
+
+---
+
+### 🗄 Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### 📊 Sales Analytics Dashboard
+Business sales dashboard with automated ETL pipeline  
+Tech: Python, SQL, Power BI  
+
+---
+
+### 📈 Customer Churn Prediction
+Machine learning model to predict customer churn  
+Tech: Python, Scikit-Learn  
+
+---
+
+### ⚙️ Automated ETL Pipeline
+Automated data ingestion and cleaning pipeline  
+Tech: Python, SQL  
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=tokyonight)
+
+
+💼 LinkedIn: https://www.linkedin.com/in/edoardo-morgillo-b5bb6a33b/
+📧 Email: edoardomorgillo@icloud.com
+
+
+
+
