@@ -56,6 +56,10 @@ Strong attention to data quality, reproducibility, and clear communication of re
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
+---
+
+## 🚀 Featured Projects
+
 ### 📊 Sales Analytics Dashboard
 Business sales dashboard with automated ETL pipeline  
 Tech: Python, SQL, Power BI  
@@ -75,6 +79,7 @@ Tech: Python, SQL
 ---
 
 💼 LinkedIn: https://www.linkedin.com/in/edoardo-morgillo
+
 📧 Email: edoardomorgillo@icloud.com
 
 ---
