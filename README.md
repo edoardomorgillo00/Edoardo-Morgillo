@@ -2,9 +2,32 @@ Hi 👋, I'm Edoardo
 --
 Data Analyst | Turning Data into Business Insights</h3>
 ---
-📊 Data Analyst focused on transforming raw data into actionable insights  
-📈 Passionate about Data Visualization, Automation and Predictive Analysis  
-⚡ Strong focus on business impact and storytelling with data  
+
+## 🧠 About Me
+
+📊 Data Analyst focused on transforming raw data into actionable business insights  
+📈 Passionate about Business Intelligence, Financial Analysis and Decision Support  
+⚡ Strong focus on business impact, automation and data storytelling 
+
+---
+
+## 🎯 Career Goals
+
+I am pursuing a career as a **Business Analyst / Data Analyst**, focused on leveraging data to drive strategic business decisions and improve organizational performance.
+
+I am particularly interested in roles that combine **data analysis, business intelligence, and financial insight**, with a strong emphasis on delivering measurable business value through data-driven strategies.
+
+🌍 **Work Preference:** Remote-first environment, open to relocation for high-impact opportunities  
+
+📊 **Key Interest Areas:**  
+- Business Intelligence & Dashboard Development  
+- Financial & Performance Analysis  
+- Data-Driven Decision Making  
+- Business Process Optimization  
+
+⚡ **Working Approach:**  
+I focus on transforming complex datasets into clear, actionable insights, combining technical data skills with business-oriented thinking.  
+Strong attention to data quality, reproducibility, and clear communication of results to both technical and non-technical stakeholders.
 
 ---
 
@@ -49,15 +72,19 @@ Tech: Python, Scikit-Learn
 Automated data ingestion and cleaning pipeline  
 Tech: Python, SQL  
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=tokyonight)
-
 ---
 
 💼 LinkedIn: https://www.linkedin.com/in/edoardo-morgillo
 📧 Email: edoardomorgillo@icloud.com
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=tokyonight)
+
+
+
+
 
 
 
