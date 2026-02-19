@@ -1,6 +1,7 @@
-Hi 👋, I'm Edoardo</h1>
+Hi 👋, I'm Edoardo
+--
 Data Analyst | Turning Data into Business Insights</h3>
-
+---
 📊 Data Analyst focused on transforming raw data into actionable insights  
 📈 Passionate about Data Visualization, Automation and Predictive Analysis  
 ⚡ Strong focus on business impact and storytelling with data  
