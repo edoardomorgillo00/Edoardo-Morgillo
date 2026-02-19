@@ -1,6 +1,8 @@
 Hi 👋, I'm Edoardo
 --
+
 Data Analyst | Turning Data into Business Insights</h3>
+
 ---
 
 ## 🧠 About Me
