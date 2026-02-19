@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Edoardo</h1>
-<h3 align="center">Data Analyst | Turning Data into Business Insights</h3>
+Hi 👋, I'm Edoardo</h1>
+Data Analyst | Turning Data into Business Insights</h3>
 
 📊 Data Analyst focused on transforming raw data into actionable insights  
 📈 Passionate about Data Visualization, Automation and Predictive Analysis  
 ⚡ Strong focus on business impact and storytelling with data  
+
+---
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,8 +53,9 @@ Tech: Python, SQL
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=tokyonight)
 
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/edoardo-morgillo-b5bb6a33b/
+💼 LinkedIn: https://www.linkedin.com/in/edoardo-morgillo
 📧 Email: edoardomorgillo@icloud.com
 
 
